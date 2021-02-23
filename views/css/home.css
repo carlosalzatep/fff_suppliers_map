@@ -1,0 +1,25 @@
+/* CSS Home Map Suppliers*/
+#map {
+    background-color: var(--dark-grey-color);
+    height: 530px;
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#suppliers_map .cta {
+    margin: auto;
+    text-align: center;
+}
+
+
+/*******************************************************************************************************/
+/*Media Queries */
+
+@media (max-width:800px) {
+    #map {
+        height: 52vh;
+    }
+}
