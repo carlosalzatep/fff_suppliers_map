@@ -9,7 +9,7 @@ if (!defined('_PS_VERSION_')) {
 class Fff_map_suppliers extends Module/* implements WidgetInterface*/
 {
     protected $config_form = false;
-    protected $GoogleAPIKey = 'AIzaSyCwTeCE0wTFbGXiQOSl2CeIfJlZuUfI3q4';
+    protected $GoogleAPIKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 
     public function __construct()
     {
